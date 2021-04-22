@@ -1,0 +1,21 @@
+userPrincipalName;SamAccountName;Name;GivenName;SurName;Title;Department;Company;Manager
+Jsanchez@gmail.com ;Jsanchez;Julio Sanchez;Julio;Sanchez;Developer web;Desarrollo;Etec;Rgomez
+Rgomez@gmail.com ;Rgomez;Raul Gomez;Raul ;Gomez;Jefe developer;Desarrollo;Etec;
+Lgonzales@gmail.com ;Lgonzales;Lincol Gonzales;Lincol ;Gonzales;Developer app;Desarrollo;Etec;Rgomez
+Adiaz@gmail.com ;Adiaz; Arnold Diaz; Arnold;Diaz;Developer app;Desarrollo;Etec;Rgomez
+Storres@gmail.com ;Storres;Susy Torres;Susy ;Torres;Developer app;Desarrollo;Etec;Rgomez
+Ebrozo@gmail.com ;Ebrozo;Elsa Brozo;Elsa ;Brozo;Developer app;Desarrollo;Etec;Rgomez
+Llima@gmail.com ;Llima;Luna Lima;Luna ;Lima;Developer app;Desarrollo;Etec;Rgomez
+Gpacheco@gmail.com ;Gpacheco;Gian Pacheco;Gian ;Pacheco;Tecnico admin;Administrador;Etec;Wserna
+Wserna@gmail.com ;Wserna;William Serna;William ;Serna;Jefe admin;Administrador;Etec;
+Gcampo@gmail.com ;Gcampo;Guillen Campo;Guillen ;Campo;Tecnico admin;Administrador;Etec;Wserna
+Jayala@gmail.com ;Jayala;Juan Ayala;Juan;Ayala;Tecnico admin;Administrador;Etec;Wserna
+Cvillegas@gmail.com ;Cvillegas;Cesar Villegas;Cesar;Villegas;Tecnico admin;Administrador;Etec;Wserna
+Cvillegas@gmail.com ;Foliva;Flor Oliva;Flor ;Oliva;Tecnico admin;Administrador;Etec;Wserna
+Ccevallos@gmail.com ;Ccevallos;Celsa Cevallos;Celsa;Cevallos;Tecnico admin;Administrador;Etec;Wserna
+Fborja@gmail.com ;Fborja;Frank Borja;Frank ;Borja;Jefe marketing;Marketing;Etec;
+Cortiz@gmail.com ;Cortiz;Camilo Ortiz;Camilo ;Ortiz;Tecnico marketing;Marketing;Etec;Fborja
+Maguirre@gmail.com ;Maguirre;Manuel Aguirre;Manuel ;Aguirre;Tecnico marketing;Marketing;Etec;Fborja
+Pmorilla@gmail.com ;Pmorilla;Patricio Morilla;Patricio ;Morilla;Gerente;Direccion;Etec;
+Lreyes@gmail.com ;Lreyes;Lorenzo Reyes;Lorenzo ;Reyes;Jefe Marketing;Ventas;Etec;
+Aroman@gmail.com ;Aroman;Alez Roman;Alez ;Roman;Marketing;Ventas;Etec;Lreyes
